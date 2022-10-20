@@ -13,7 +13,7 @@ for(let i=1;i<=num;i++)
     break;
     }
 }
-if(count==3)    //Please change it to 2
+if(count==2)    //Changed it to 2
 {
 console.log(num+" is Prime Number.");
 }
