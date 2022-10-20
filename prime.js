@@ -21,3 +21,4 @@ else
 {
     console.log(num+" is not a Prime Number.");   
 }
+console.log("Thank You");

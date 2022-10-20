@@ -15,3 +15,4 @@ else
 {
   console.log("String \""+str1+"\" is not a palindrome");
 }
+console.log("Thank You");
